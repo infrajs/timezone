@@ -1,0 +1,9 @@
+{
+	"name": "itlife/timezone",
+	"description": "auto detect timezone",
+	"license": "GPL3",
+	"authors": [{
+		"name": "itlife",
+		"email": "info@itlife-studio.ru"
+	}]
+}
