@@ -1,12 +1,8 @@
 {
-	"name": "itlife/timezone",
+	"name": "infrajs/timezone",
 	"description": "auto detect timezone",
-	"license": "GPL3",
-	"authors": [{
-		"name": "itlife",
-		"email": "info@itlife-studio.ru"
-	}],
-    "autoload": {
-        "psr-4": { "itlife\\timezone\\": "/" }
-    }
+	"license": "GPL3"
+	"autoload": {
+		"psr-4": { "itlife\\timezone\\": "/" }
+	}
 }
