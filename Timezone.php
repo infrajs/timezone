@@ -4,7 +4,7 @@
  * аббревиатура зоны не передана в функцию timezone_name_from_abbr и по смещению 2 и 3 аргумент, получается случайная подходящая зона
  * результат негарантирован
  **/
-namespace itlife\timezone;
+namespace infrajs\timezone;
 
 class Timezone
 {
