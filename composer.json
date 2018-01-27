@@ -1,7 +1,6 @@
 {
 	"name": "infrajs/timezone",
 	"description": "auto detect timezone",
-	"license": "GPL3",
 	"autoload": {
 		"psr-4": { "infrajs\\timezone\\": "/" }
 	}
